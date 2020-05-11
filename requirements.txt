@@ -1,0 +1,11 @@
+jupyterlab
+requests
+pandas
+numpy
+plotly
+voila
+sklearn
+scipy
+rdkit
+mordred
+ipywidgets
