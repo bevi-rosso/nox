@@ -1,0 +1,24 @@
+code;IUPAC;name;SMILES
+A;N,N-ditert-butyl nitroxide;DBN;CC(C)(C)N([O])C(C)(C)C
+B;2,2,6,6-tetramethyl-piperidin-1-yloxyl;TEMPO;CC1(C)CCCC(C)(C)N1[O]
+C;4-amino-2,2,6,6-tetramethyl-piperidin-1-yloxyl;4-amino-TEMPO;CC1(C)CC(N)CC(C)(C)N1[O]
+D;4-hydroxy-2,2,6,6-tetramethyl-piperidin-1-yloxyl;4-hydroxy-TEMPO;CC1(C)CC(O)CC(C)(C)N1[O]
+E;3-carboxy-2,2,6,6-tetramethyl-piperidin-1-yloxyl;3-carboxy-TEMPO;CC1(C)CCC(C(O)=O)C(C)(C)N1[O]
+F;3,4-dicarboxy-2,2,6,6-tetramethyl-piperidin-1-yloxyl;3,4-dicarboxy-TEMPO;CC1(C)CC(C(C(O)=O)C(C)(C)N1[O])C(O)=O
+G;3,5-dicarboxy-2,2,6,6-tetramethyl-piperidin-1-yloxyl;3,5-dicarboxy-TEMPO;CC1(C)C(CC(C(O)=O)C(C)(C)N1[O])C(O)=O
+H;4-carboxy-2,2,6,6-tetraethylpiperidin-1-yloxyl;4-carboxy-TEEPO;CCC1(CC)CC(CC(CC)(CC)N1[O])C(O)=O
+I;2,2,5,5-tetramethyl-pyrrolidin-1-yloxyl;PROXYL;CC1(C)CCC(C)(C)N1[O]
+J;3-amino-2,2,5,5-tetramethyl-pyrrolidin-1-yloxyl;3-amino-PROXYL;CC1(C)CC(N)C(C)(C)N1[O]
+K;3-methoxy-2,2,5,5-tetramethyl-pyrrolidin-1-yloxyl;3-methoxy-PROXYL;COC1CC(C)(C)N([O])C1(C)C
+L;3-hydroxy-2,2,5,5-tetramethyl-pyrrolidin-1-yloxyl;3-hydroxy-PROXYL;CC1(C)CC(O)C(C)(C)N1[O]
+M;3-carboxy-2,2,5,5-tetramethyl-pyrrolidin-1-yloxyl;3-carboxy-PROXYL;CC1(C)CC(C(O)=O)C(C)(C)N1[O]
+N;3,4-dicarboxy-2,2,5,5-tetramethyl-pyrrolidin-1-yloxyl;3,4-dicarboxy-PROXYL;CC1(C)C(C(C(O)=O)C(C)(C)N1[O])C(O)=O
+O;3-carboxy-2,2,5,5-tetraethylpyrrolidin-1-yloxyl;3-carboxy-TEEPO;CCC1(CC)CC(C(O)=O)C(CC)(CC)N1[O]
+P;1,1,3,3-tetramethylisoindolin-2-yloxyl;TMIO;CC1(C)N([O])C(C)(C)c2ccccc12
+Q;5-carboxy-1,1,3,3-tetramethylisoindolin-2-yloxyl;5-carboxy-TMIO;CC1(C)N([O])C(C)(C)c2cc(ccc12)C(O)=O
+R;5,6-dicarboxy-1,1,3,3-tetramethylisoindolin-2-yloxyl;5,6-dicarboxy-TMIO;CC1(C)N([O])C(C)(C)c2cc(C(O)=O)c(cc12)C(O)=O
+S;1,1,3,3-tetramethyl-2,3-dihydro-2-azaphenalene-2-yloxyl;TMAO;CC1(C)N([O])C(C)(C)c2cccc3cccc1c23
+T;2,2-dimethylindolin-1-yloxyl;DMIO;CC1(C)Cc2ccccc2N1[O]
+U;2,2-diphenylindolin-1-yloxyl;DPIO;[O]N1c2ccccc2CC1(c3ccccc3)c4ccccc4
+V;N-tert-butyl-N-[1-diethylphosphono-2,2-dimethylpropy)] nitroxide;SG1;CCO[P](=O)(OCC)C(N([O])C(C)(C)C)C(C)(C)C
+Z;1,1,3,3-tetraethylisoindolin-2-yloxyl;TEDIO;CCC1(CC)N([O])C(CC)(CC)c2ccccc12
